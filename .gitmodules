@@ -1,0 +1,6 @@
+[submodule "face-segmentation"]
+	path = face-segmentation
+	url = https://github.com/nasir6/face-segmentation
+[submodule "RhythmNet"]
+	path = RhythmNet
+	url = https://github.com/AnweshCR7/RhythmNet
